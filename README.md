@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sagar Kumar Jha</h1>
-<h3 align="center">B.Tech AI & ML | Django | Python | Web Dev</h3>
+<h3 align="center">B.Tech AI & ML </h3>
 
 ---
 
-## 🧠 About Me
-- Learning **AI / ML + Backend**
-- Building real projects (not tutorial junk)
-- Focused on **skills > certificates**
 
 ---
 
@@ -30,14 +26,4 @@
 
 ---
 
-## 🧪 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sagar-coder29&theme=github-dark" />
-</p>
 
----
-
-## 👀 Profile Views
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=sagar-coder29&icon=0&color=0" />
-</p>
