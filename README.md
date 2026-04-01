@@ -54,7 +54,6 @@ Open Source: Git/GitHub ✅ → BootCamp ✅ → GSoC prep starting 2026
 
 **Understood:** Embeddings, Weights, Tokens, Tokenization, MoE, Router in MoE, RLHF, Knowledge Distillation, High-dimensional vector spaces
 
-**Roadmap:** Complete NN Series → Karpathy's "Build GPT from scratch" → PyTorch → Fine-tune Mistral/LLaMA
 
 ---
 
