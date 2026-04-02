@@ -45,7 +45,7 @@ Open Source: Git/GitHub ✅ → BootCamp ✅ → GSoC prep starting 2026
 
 ### 🧰 Current Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,html,css,js,git,github,sqlite,postgresql,numpy,pandas,pytorch,dockertheme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,django,html,css,js,git,github,sqlite,postgresql,numpy,pandas,pytorch,docker&theme=dark" />
 </p>
 
 ---
