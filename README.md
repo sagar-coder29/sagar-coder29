@@ -83,7 +83,7 @@ Note: Switched from local Tailwind/Node to CDN
   <a href="https://twitter.com" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
   </a>
-  <a href="mailto:sagarkumarjha2904@gmail.com" target="_blank">
+  <a href="mailto:sagarkumarj446@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
   </a>
 </p>
