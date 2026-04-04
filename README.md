@@ -20,11 +20,11 @@
 │  AGE     │ 19 years                                        │
 │  COLLEGE │ ADGIPS, Delhi (GGSIPU) - B.Tech AI/ML           │
 │  BATCH   │ 2025 | Semester 2                               │
-│  STATUS  │ All Semester 2 exams completed ✅                │
-└─────────────────────────────────────────────────────────────┘
+│  STATUS  │ All Semester 2 exams completed ✅               │
+└────────────────────────────────────────────────────────────┘
 ```
 
-- 🔭 Currently building: **HireMate** (Django gig marketplace) & **Dilip Kirana Store**
+- 🔭 Currently building: **HireMate** (Django gig marketplace)
 - 🌱 Learning: Django, SQL, Deep Learning fundamentals
 - 🎯 Focus: ML/AI internship + Smart India Hackathon + GSoC 2027
 - ⚡ Fun fact: Hypothesize ML concepts before knowing their formal names
@@ -45,7 +45,7 @@ Open Source: Git/GitHub ✅ → BootCamp ✅ → GSoC prep starting 2026
 
 ### 🧰 Current Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,html,css,js,git,github,sqlite,postgresql,numpy,pandas,pytorch,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,django,html,css,js,git,github,sqlite,postgresql,numpy,pandas,skitlearn,pytorch,docker&theme=dark" />
 </p>
 
 ---
