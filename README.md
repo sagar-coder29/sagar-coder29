@@ -26,10 +26,6 @@
 
 - 🔭 Currently building: **HireMate** (Django gig marketplace)
 - 🌱 Learning: Django, SQL, Deep Learning fundamentals
-- 🎯 Focus: ML/AI internship + Smart India Hackathon + GSoC 2027
-- ⚡ Fun fact: Hypothesize ML concepts before knowing their formal names
-
-
 ---
 
 
@@ -39,8 +35,6 @@
 ```
 Web Dev:     HTML ✅ → CSS ✅ → JS (~90%) → Django 🔄 → SQL → Docker
 DSA:         Python → LeetCode (4 Easy done, HashMap in progress)
-ML:          Andrew Ng Specialization → Kaggle → PyTorch → Fine-tuning
-Open Source: Git/GitHub ✅ → BootCamp ✅ → GSoC prep starting 2026
 ```
 
 ### 🧰 Current Stack
