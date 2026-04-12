@@ -20,7 +20,6 @@
 │  AGE     │ 19 years                                        │
 │  COLLEGE │ ADGIPS, Delhi (GGSIPU) - B.Tech AI/ML           │
 │  BATCH   │ 2025 | Semester 2                               │
-│  STATUS  │ All Semester 2 exams completed ✅               │
 └────────────────────────────────────────────────────────────┘
 ```
 
