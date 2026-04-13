@@ -111,3 +111,9 @@ Note: Switched from local Tailwind/Node to CDN
 <img src="https://komarev.com/ghpvc/?username=sagar-coder29&label=Total%20Profile%20Views&color=0e75b5&style=for-the-badge" />
 
 </div>
+
+<a href="https://vaunt.dev">
+<img src="https://api.vaunt.dev/v1/github/entities/sagar-coder29/contributions?format=svg" width="45%" />
+</a>
+<img decoding="async" loading="lazy" src="https://api.vaunt.dev/v1/github/entities/sagar-coder29/achievements?format=svg&limit=3" width="50%" />
+</p>
