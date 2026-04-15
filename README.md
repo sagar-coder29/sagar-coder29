@@ -15,8 +15,8 @@
 ## 👤 About Me
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│  NAME    │ Sagar Kumar Jha (aka "Shadow")                  │
+┌────────────────────────────────────────────────────────────┐
+│  NAME    │ Sagar Kumar Jha                                 │
 │  AGE     │ 19 years                                        │
 │  COLLEGE │ ADGIPS, Delhi (GGSIPU) - B.Tech AI/ML           │
 │  BATCH   │ 2025 | Semester 2                               │
