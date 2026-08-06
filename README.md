@@ -17,9 +17,7 @@
 ```
 ┌────────────────────────────────────────────────────────────┐
 │  NAME    │ Sagar Kumar Jha                                 │
-│  AGE     │ 19 years                                        │
-│  COLLEGE │ ADGIPS, Delhi (GGSIPU) - B.Tech AI/ML           │
-│  BATCH   │ 2025 | Semester 2                               │
+│  AGE     │ 19 years                                        │                            │
 └────────────────────────────────────────────────────────────┘
 ```
 
@@ -31,10 +29,7 @@
 
 ## 🛠️ Tech Roadmap
 
-```
-Web Dev:     HTML ✅ → CSS ✅ → JS (~90%) → Django 🔄 → SQL → Docker
-DSA:         Python → LeetCode (4 Easy done, HashMap in progress)
-```
+
 
 ### 🧰 Current Stack
 <p align="center">
@@ -43,9 +38,7 @@ DSA:         Python → LeetCode (4 Easy done, HashMap in progress)
 
 ---
 
-## 🧠 Neural Network Learning Status
 
-**Understood:** Embeddings, Weights, Tokens, Tokenization, MoE, Router in MoE, RLHF, Knowledge Distillation, High-dimensional vector spaces
 
 
 ---
