@@ -63,7 +63,7 @@ Note: Switched from local Tailwind/Node to CDN
   <a href="https://github.com/sagar-coder29" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
-  <a href="https://linkedin.com/in/sagar-kumar-jha-29" target="_blank">
+  <a href="https://www.linkedin.com/in/sagar-jha-39a291420/?isSelfProfile=true" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
   <a href="https://twitter.com" target="_blank">
