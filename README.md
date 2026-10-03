@@ -33,7 +33,7 @@
 
 ### 🧰 Current Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,html,css,js,git,github,sqlite,postgresql,numpy,pandas,skitlearn,pytorch,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,django,html,css,js,git,github,sqlite,postgresql,opencode,matpotlib,c,numpy,pandas,skitlearn,pytorch,docker&theme=dark" />
 </p>
 
 ---
